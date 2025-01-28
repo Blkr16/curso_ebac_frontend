@@ -1,1 +1,2 @@
 echo "Lucas Soares Kuhn" > nome.txt
+git add nome.txt
