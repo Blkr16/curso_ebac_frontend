@@ -1,2 +1,3 @@
 echo "Lucas Soares Kuhn" > nome.txt
 git add nome.txt
+git push origin exercicio_git
